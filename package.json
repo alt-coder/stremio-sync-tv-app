@@ -1,8 +1,8 @@
 {
   "name": "stremio-sync-tv-app",
-  "appName": "Stremio Sync (local shell)",
-  "version": "1.0.0",
-  "description": "Patched Stremio player with subtitle sync, packaged as a TizenBrew application module. The shell is served by jsDelivr/TizenBrew; the waveform API is on the VM.",
+  "appName": "Stremio Sync (TV)",
+  "version": "1.0.1",
+  "description": "Patched Stremio TV app with subtitle sync. Self-contained: no VM/LAN server required; waveform is opt-in.",
   "packageType": "app",
   "appPath": "app/index.html",
   "keys": [
