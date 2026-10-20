@@ -1,8 +1,8 @@
 {
   "name": "stremio-sync-tv-app",
   "appName": "Stremio Sync (TV)",
-  "version": "1.0.1",
-  "description": "Patched Stremio TV app with subtitle sync. Self-contained: no VM/LAN server required; waveform is opt-in.",
+  "version": "1.0.2",
+  "description": "Self-contained TV app: TV-scaled UI, TizenVideo/AVPlay, native AVPlay sound-analysis waveform, no VM server required.",
   "packageType": "app",
   "appPath": "app/index.html",
   "keys": [
